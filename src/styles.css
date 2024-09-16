@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.search-container {
+  border: 1px solid black;
+  width: 380px;
+  display: flex;
+  align-items: center;
+  padding: 3px;
+}
